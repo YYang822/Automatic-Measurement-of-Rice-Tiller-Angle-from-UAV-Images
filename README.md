@@ -14,5 +14,5 @@ File "YOLO11P312.yaml" defines Anaconda environment for tiller agle estimation.
 
 You will nened to modify data directories accordingly to run the program on your computer.
 
-*Due to file size restrictions, only a subset of the full image data is uploaded into this repository (The Compressed Zip File).
+*Due to file size restrictions, only a subset of the full image data is uploaded into this repository (TillerAngleDataSet.zip).
 
